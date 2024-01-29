@@ -1,4 +1,4 @@
-#include "lista.hpp"
+#include "include/lista.hpp"
 
 int main(int argc, char const *argv[])
 {
