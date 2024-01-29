@@ -1,2 +1,34 @@
 # ED
- Repositório para armazenar exercícios das aulas de Estruturas de Dados, lecionadas na UFMG. 
+ Repositório para armazenar exercícios e resumos das aulas de Estruturas de Dados, lecionadas na UFMG.
+
+ ## O que são estruturas de dados?
+ Estruturas de dados podem ser vistas como TADs responsáveis por armazenar e organizar dados. São formas de armazenar e acessar dados de forma eficiente.
+
+ ## Listas
+ Representação de um conjunto de elementos. Pode acessar, inserir e remover elementos em qualquer posição. Há duas abordagens para a criação de listas, elas são: sequenciais e encadeadas.
+ Ambas possuem as seguintes operações:
+ <ul>
+ <li>Criar lista</li>
+ <li>Get e Set</li>
+ <li>Verificar se a listá está vazia</li>
+ <li>Inserção (no início, no final, em uma posição x)</li>
+ <li>Remoção (no início, no final, em uma posição x)</li>
+ <li>Pesquisar por elemento</li>
+ <li>Imprimir lista</li>
+ <li>Limpar lista</li>
+</ul>
+ 
+ ### Listas Sequenciais
+ Faz uso de arrays e possui alocação estática (a lista possui tamanho máximo). Os elementos são inseridos no array a partir da posição 0, ou seja, quaisquer x-ésimo elemento estará na posição (x-1).
+ A inserção e remoção, caso seja do pultimo elemento, tem custo O(1). Em demais posições, será O(1) no melhor caso e o O(n) no pior caso.
+  Os gets e sets tem custo O(1), haja vista que irão direto a posição. A pesquisa, no melhor caso, será O(1), ou seja, o elemento procurado está na primeira posição, ou será O(n), quando o elemento pesquisado estiver na última posição. A impressão dos elementos sempre será O(n), já que irá percorrer toda a lista.
+  **Vantagens de listas sequenciais:** Fácil implementação, não faz uso de ponteiros, economiza memória e os acessos aos itens (gets e sets) são O(1).
+  **Desvantagens de listas sequenciais:** Possui tamanho máximo fixado, ou seja, pode acarretar problemas em usos com muitos dados. Ademais, o custo de inserção e remoção, no pior caso, pode ser O(n).
+
+ ### Listas Encadeadas
+ Faz uso de ponteiros e possui alocação dnâmica.
+ 
+ ## Fontes
+<ul>
+ <li>https://www.geeksforgeeks.org/data-structures/</li>
+</ul>
