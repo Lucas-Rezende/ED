@@ -31,6 +31,8 @@
 
  ## Pilhas
  ![Frame 2](https://github.com/Lucas-Rezende/ED/assets/66080424/4d03d8eb-bc4e-49ca-a8a2-b92022a0fb19)
+![Frame 3](https://github.com/Lucas-Rezende/ED/assets/66080424/afb62464-2a94-4916-b281-5235c1fa37ea)
+![Pilhas comparação](https://github.com/Lucas-Rezende/ED/assets/66080424/78ed569d-5d54-4706-9222-02e1b6185596)
 
  ## Fontes
 <ul>
