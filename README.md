@@ -36,4 +36,5 @@
 <ul>
  <li>https://www.geeksforgeeks.org/data-structures/</li>
  <li>https://www.geeksforgeeks.org/time-and-space-complexity-analysis-of-stack-operations/</li>
+ <li>https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/</li>
 </ul>
