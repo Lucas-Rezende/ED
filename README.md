@@ -31,9 +31,9 @@
 
  ## Pilhas
  <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20Arrays.png" alt="Imagem 1" style="width: 33%;">
-    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20Ponteiros.png" alt="Imagem 2" style="width: 33%;">
-    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20compara%C3%A7%C3%A3o.png" alt="Imagem 3" style="width: 33%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20Arrays.png" alt="Imagem 1" style="width: 32%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20Ponteiros.png" alt="Imagem 2" style="width: 32%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20compara%C3%A7%C3%A3o.png" alt="Imagem 3" style="width: 32%;">
 </div>
 
  ## Fontes
