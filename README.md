@@ -30,9 +30,11 @@
  Faz uso de ponteiros e possui alocação dnâmica.
 
  ## Pilhas
- ![Frame 2](https://github.com/Lucas-Rezende/ED/assets/66080424/4d03d8eb-bc4e-49ca-a8a2-b92022a0fb19)
-![Frame 3](https://github.com/Lucas-Rezende/ED/assets/66080424/afb62464-2a94-4916-b281-5235c1fa37ea)
-![Pilhas comparação](https://github.com/Lucas-Rezende/ED/assets/66080424/78ed569d-5d54-4706-9222-02e1b6185596)
+ <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20Arrays.png" alt="Imagem 1" style="width: 32%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20Ponteiros.png" alt="Imagem 2" style="width: 32%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Pilhas%20compara%C3%A7%C3%A3o.png" alt="Imagem 3" style="width: 32%;">
+</div>
 
  ## Fontes
 <ul>
