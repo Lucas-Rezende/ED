@@ -40,8 +40,9 @@ A Pilha, também conhecida como stack, é um tipo de estrutura de dados que segu
 ## Filas
 Filas (queues) são estruturas de dados que seguem o princípio "First In, First Out" (FIFO), onde o primeiro elemento inserido é o primeiro a ser removido. Essa organização linear é essencial em situações em que a ordem de chegada dos elementos é crucial.
  <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Filas%20Arrays.png" alt="Imagem 1" style="width: 48%;">
-    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Filas%20Ponteiros.png" alt="Imagem 1" style="width: 48%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Filas%20Arrays.png" alt="Imagem 1" style="width: 32%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Filas%20Ponteiros.png" alt="Imagem 1" style="width: 32%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Filas%20Compara%C3%A7%C3%A3o.png" alt="Imagem 1" style="width: 32%;">
 </div>
 
  ## Fontes
