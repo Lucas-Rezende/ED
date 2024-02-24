@@ -20,8 +20,8 @@
 
  <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Lucas-Rezende/ED/assets/66080424/15cc3019-7f24-4985-a2c9-fa7de1ce976c" alt="Imagem 1" style="width: 32%;">
-    <img src="temp" alt="Imagem 2" style="width: 32%;">
-    <img src="temp" alt="Imagem 3" style="width: 32%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Listas%20Encadeadas.png" alt="Imagem 2" style="width: 32%;">
+    <img src="https://github.com/Lucas-Rezende/ED/blob/main/img/Listas%20Compara%C3%A7%C3%A3o.png" alt="Imagem 3" style="width: 32%;">
 </div>
 
  ## Pilhas
